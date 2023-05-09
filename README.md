@@ -4,4 +4,4 @@
 
 The reference answers for the practical exercises of the fast.ai course on 0511 are attached in a Colab file. In addition, for students who are not convenient to use Colab, the code has also been published on the GitHub platform for reference.
 
-Colab:https://colab.research.google.com/drive/1M--Y-1rdpZQIvskPEmoqI0D0ngsIrIpw?usp=sharing
+Colab: https://colab.research.google.com/drive/1M--Y-1rdpZQIvskPEmoqI0D0ngsIrIpw?usp=sharing
